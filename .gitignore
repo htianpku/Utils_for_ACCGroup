@@ -1,2 +1,4 @@
-/.idea/
-/beijingair_data_processor/__pycache__/
+.idea
+beijingair_data_processor/__pycache__
+func_based_on_Baidu_LBS_web_API/__pycache__
+python_and_data_analysis_intro/.ipynb_checkpoints
